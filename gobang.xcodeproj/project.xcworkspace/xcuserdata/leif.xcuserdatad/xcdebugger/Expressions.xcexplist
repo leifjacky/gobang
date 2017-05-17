@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Board.makeMove(row : Int, col : Int) -&gt; ():Board.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "nowIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BoardView.withdraw() -&gt; Bool:BoardView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gameOver">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BoardView.mouseDown(with : NSEvent) -&gt; ():BoardView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gameOver">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BoardView.AIMove() -&gt; ():BoardView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "algorithm">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
